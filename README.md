@@ -1,10 +1,10 @@
-# MapleFi AIONEX Contracts
+# AIONEX Contracts
 
 **AI-Native DeFi Intelligence & Non-Custodial Execution Infrastructure**
 
-Official smart-contract repository for **MapleFi AIONEX**, deployed across **BNB Chain / BNB Smart Chain (BSC)** and Base mainnet.
+Official smart-contract repository for **AIONEX**, deployed across **BNB Chain / BNB Smart Chain (BSC)** and Base mainnet.
 
-MapleFi AIONEX combines deterministic smart-contract execution with real-time DeFi intelligence to help users evaluate liquidity, routes, execution quality and market conditions before signing an onchain transaction.
+ARQEXA AIONEX combines deterministic smart-contract execution with real-time DeFi intelligence to help users evaluate liquidity, routes, execution quality and market conditions before signing an onchain transaction.
 
 🌐 **Website:** https://maplefi.xyz
 📚 **Docs:** https://docs.maplefi.xyz
@@ -15,7 +15,7 @@ MapleFi AIONEX combines deterministic smart-contract execution with real-time De
 
 ## BNB Smart Chain Mainnet
 
-MapleFi AIONEX is live on **BNB Smart Chain (BSC / BNB Chain)**.
+AIONEX is live on **BNB Smart Chain (BSC / BNB Chain)**.
 
 **Network:** BNB Smart Chain
 **Chain:** BNB Chain
